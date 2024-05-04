@@ -54,13 +54,17 @@ Use the `README.md` to get started.
 
 ### Built With
 
-This section lists any major frameworks/libraries used in our project (NEEDS UPDATE).
+This section lists any major frameworks/libraries used in our project.
 
 Example:
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+* ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,9 +74,6 @@ Example:
 
 This is how you begin setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-#### Environment Setup
 
 
 #### Installation
@@ -112,14 +113,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 Example:
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+- [x] Annotate data
+- [x] Train data
+    - [ ] ....
+    - [ ] ....
+- [ ] Create website
+    - [ ] UX/UI
+    - [ ] Widgits 
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
+    - [ ] ....
+    - [ ] ....
+(for below, refer to the pdf proposal)
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -143,15 +148,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License
-
-Example:
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -160,6 +156,7 @@ Hamid Suha - [📫](scuf) - hsuha@csu.fullerton.edu
 Belal Skaik - [📫](scuf) - belalaskaik@gmail.com
 
 Project Link: [Github]([https://github.com/your_username/repo_name](https://github.com/Belalaskaik/CandleVision-))
+Project Link: [Github]([https://github.com/your_username/repo_name](https://github.com/midsu/CandleVision-))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
